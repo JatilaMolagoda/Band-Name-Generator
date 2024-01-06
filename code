@@ -1,0 +1,4 @@
+print("Welcome to the Band Name Generator.")
+club = input("What's the name of your favorite football club?\n")
+player = input("What's your favorite player's name?\n")
+print("Your band name could be " + club + " " + player)
